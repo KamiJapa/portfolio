@@ -30,7 +30,7 @@ document.addEventListener('click', event => {
 });
 mobile.addEventListener('change', () => setMenu(false));
 
-const sections = [...document.querySelectorAll('main section[id]')];
+const sections = links.map(link => document.querySelector(link.hash));
 let scrollQueued = false;
 function updateActiveLink() {
   const threshold = window.innerHeight * 0.4;
