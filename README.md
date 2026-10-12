@@ -1,5 +1,11 @@
 # Daniel Murakami — Portfólio
 
+## Autoria
+
+Este site foi desenvolvido por **Daniel Murakami**.
+
+**Portfólio:** [portfoliomurakami.netlify.app](https://portfoliomurakami.netlify.app/)
+
 Site estático em português brasileiro, feito com HTML5, Tailwind CSS via CDN, CSS e JavaScript puro.
 
 Abra `index.html` no navegador. Não exige instalação nem compilação. O Tailwind e a fonte Inter são carregados pela internet; o CSS local preserva a estrutura e oferece fonte alternativa se esses recursos estiverem indisponíveis.
