@@ -13,3 +13,12 @@ Licença: https://unsplash.com/license
 Projeto: https://github.com/KamiJapa/offgrid
 
 Proveniência e condições de uso: https://github.com/KamiJapa/offgrid/blob/main/ASSET-LICENSES.md
+
+## ALVA DENTAL
+
+`alva-dental.webp`: imagem arquitetônica conceitual gerada por IA para a marca fictícia ALVA DENTAL, reutilizada como miniatura. Versão WebP de 640 × 427 pixels, proveniente de `assets/images/recepcao-640.webp` do projeto. Não representa uma clínica real.
+
+Projeto: https://github.com/KamiJapa/alvadental
+
+Proveniência e condições de uso: https://github.com/KamiJapa/alvadental/blob/main/LICENSE-ASSETS.md
+
